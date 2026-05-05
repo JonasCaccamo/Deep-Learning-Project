@@ -1,0 +1,19 @@
+﻿# Dataset e checkpoint — troppo pesanti per git
+data/
+checkpoints/
+*.rar
+*.zip
+*.mp4
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Colab/Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# WandB
+wandb/
